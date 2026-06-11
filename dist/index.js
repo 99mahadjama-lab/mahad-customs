@@ -1,10 +1,10 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 544:
+/***/ 989:
 /***/ ((module) => {
 
-module.exports = eval("require")("actions/core");
+module.exports = eval("require")("/@actions/core");
 
 
 /***/ })
@@ -48,7 +48,7 @@ module.exports = eval("require")("actions/core");
 /******/ 	
 /************************************************************************/
 var __webpack_exports__ = {};
-const core = __nccwpck_require__(544)
+const core = __nccwpck_require__(989)
 
 try {
     const nameToGreet = core.getInput('who-to-greet');
