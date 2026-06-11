@@ -1,26 +1,5 @@
 {
-  "name": "customs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "dependencies": {
-    "tunnel": "^0.0.6",
-    "undici": "^6.26.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/99mahadjama-lab/mahad-customs.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/99mahadjama-lab/mahad-customs/issues"
-  },
-  "homepage": "https://github.com/99mahadjama-lab/mahad-customs#readme"
+    "@actions/core": "^3.0.1"
+  }
 }
