@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "tunnel": "^0.0.6",
+    "undici": "^6.26.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/99mahadjama-lab/mahad-customs/issues"
   },
-  "homepage": "https://github.com/99mahadjama-lab/mahad-customs#readme",
-  "dependencies": {
-    "@actions/core": "^3.0.1"
-  }
+  "homepage": "https://github.com/99mahadjama-lab/mahad-customs#readme"
 }
